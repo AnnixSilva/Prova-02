@@ -1,0 +1,9 @@
+.subT {
+    font-size: 20px;
+}
+
+.borda {
+    background-color: blue;
+    color: blue;
+    height: 120px;
+}

@@ -1,0 +1,33 @@
+
+.Footer {
+    background-color: rgb(21, 107, 221);
+    position: relative;
+    color: white;
+    top: 420px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+.subFooter {
+    position: relative;
+    top: 20px;
+    right: 250px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logoSesi {
+    height: 80px;
+    width: 100px;
+    position: relative;
+    top: 15px;
+}
+
+.txtFooter {
+    position: relative;
+    left: 250px;
+    display: flex;
+    justify-content: center;
+}
